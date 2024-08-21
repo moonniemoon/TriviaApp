@@ -1,5 +1,11 @@
 # Trivia World - a Simple iOS Quiz App
 
+<p>
+   <img src="Screenshots/HomeView.png" width="30%"> &nbsp;&nbsp;
+    <img src="Screenshots/QuestionView.png" width="30%"> &nbsp;&nbsp;
+    <img src="Screenshots/QuestionViewSE.png" width="27%"> 
+</p>
+
 An iOS trivia app that’s all about fun and simplicity. Pick a category, choose a difficulty level, and dive into the quiz. For quick trivia sessions or daily challenges.
 
 ## Keywords
@@ -8,7 +14,7 @@ An iOS trivia app that’s all about fun and simplicity. Pick a category, choose
 - **API Integration**: `URLSession` and `URLRequest` to fetch data from the [Open Trivia Database](https://opentdb.com/api_config.php).
 - **Delegation**
 - **Concurrency**: `async/await` and `DispatchQueue.main` for handling asynchronous operations and updating the UI.
-- **Press Style Buttons**: A custom `CALayer` that adds a press-like animation effect to buttons.
+- **Press Style Buttons**: A custom `CALayer` that adds a press-like animation effect to buttons or any view.
 - **UITableView**: `UITableView`, `UITableViewCell`, `UITableViewDelegate`, and `UITableViewDataSource` for displaying the answers.
 - `UIMenu` and `UIDeferredMenu` for selecting a category.
 - **UIProgressView**: Displays quiz progress with a `UIProgressView`.
@@ -27,3 +33,7 @@ An iOS trivia app that’s all about fun and simplicity. Pick a category, choose
 **Side Note:** (Honestly) I built this app because I started to feel dumber and wanted to challange my overall knowledge. Not knowing some questions is a humbling experience, but it's fun and, most importantly, free of those ads. Next quiz immediately pliz, tnx.
 
 ## Demonstration
+
+| Starting a Quiz | Ending a Quiz |
+| --- | --- |
+| <img src="Screenshots/demo1.gif" width="100%"> | <img src="Screenshots/demo2.gif" width="100%">  |
