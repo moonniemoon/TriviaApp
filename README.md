@@ -1,4 +1,4 @@
-# Trivia World - a Simple iOS Quiz App
+# Trivia World - a Simple iOS Trivia App
 
 <p>
    <img src="Screenshots/HomeView.png" width="30%"> &nbsp;&nbsp;
@@ -6,7 +6,7 @@
     <img src="Screenshots/QuestionViewSE.png" width="27%"> 
 </p>
 
-An iOS trivia app that’s all about fun and simplicity. Pick a category, choose a difficulty level, and dive into the quiz. For quick trivia sessions or daily challenges.
+A trivia app that’s all about fun and simplicity. Pick a category, choose a difficulty level, and dive into the quiz. For quick trivia sessions or daily challenges.
 
 ## Keywords
 - **Swift 5**
