@@ -8,6 +8,8 @@
 
 A trivia app that’s all about fun and simplicity. Pick a category, choose a difficulty level, and dive into the quiz. For quick trivia sessions or daily challenges.
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmoonniemoon%2FTriviaApp&label=Views&countColor=%23263759&style=flat&labelStyle=none)
+
 ## Keywords
 - **Swift 5**
 - **UIKit** (Programmatic UI)
